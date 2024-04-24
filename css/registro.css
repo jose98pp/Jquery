@@ -1,0 +1,25 @@
+/* Agrega estilos personalizados aquí */
+
+.container {
+    margin-top: 50px;
+}
+
+h1, h2 {
+    text-align: center;
+}
+
+.form-control {
+    margin-bottom: 15px;
+}
+
+.btn {
+    margin-top: 15px;
+}
+
+#tablaEstudiantes th, #tablaEstudiantes td {
+    text-align: center;
+    border-color: aquamarine;
+}
+.btn{
+    border-color: brown;
+}
